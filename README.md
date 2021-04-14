@@ -4,7 +4,7 @@ This project contains our website code for this Bootcamp
 ## Bootcampers
 - Fabian Yampasi
 - Franz Mejia
-- ...
+- Hernan Rengel
 
 ## Trainers
 - Sergio Rodriguez
