@@ -1,0 +1,15 @@
+team 1 - GitHub Flow
+Erick Vasquez
+Franz Mejia
+Javier Contreras
+
+team 2 - GitLab Flow
+Jhonatan Choque
+Fabian Yampasi
+Adriana Lavadenz
+
+team 3 - Forking Flow
+Hernan Rengel
+Luis Rodriguez
+Brian Saravia
+
