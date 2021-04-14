@@ -1,6 +1,11 @@
-# DevOps Bootcamp 01
-Welcome!
+# DevOps Bootcamp 01 Website
+This project contains our website code for this Bootcamp
 
-Bye
+## Bootcampers
+- Fabian Yampasi
+- Franz Mejia
+- ...
 
-Good luck
+## Trainers
+- Sergio Rodriguez
+- Fernando Ayala
